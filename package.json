@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  },
+  "name": "api",
+  "description": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiminhtathoj/my-blog-api.git"
+  },
+  "author": "Chiminhtathoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiminhtathoj/my-blog-api/issues"
+  },
+  "homepage": "https://github.com/chiminhtathoj/my-blog-api#readme"
+}
